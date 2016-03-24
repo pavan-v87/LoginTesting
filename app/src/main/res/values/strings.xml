@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TestingDeepDive</string>
+    <string name="hello_world">HelloWord_main</string>
+    <string name="user_name_empty">User Name Empty</string>
+    <string name="password_empty">Password Empty</string>
+    <string name="logging">LOGGING</string>
+    <string name="login_failed">LOGIN FAILED</string>
+    <string name="login_success">LOGIN SUCCESS</string>
+</resources>
